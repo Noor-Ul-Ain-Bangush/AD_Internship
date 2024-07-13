@@ -1,1 +1,18 @@
+ABSTRACT: "This task involves implementing and 
+comparing decision tree and random 
+forest classifiers for predicting loan 
+approvals using the Loan Prediction 
+Dataset from Kaggle. The process 
+includes data cleaning, feature encoding, 
+model training, and evaluation using 
+accuracy, F1-score, precision, and recall. 
+Visualization of the decision tree and 
+comparison of model performance 
+metrics provide insights into their 
+effectiveness."
+
+
+Link to dataset: 
+https://www.kaggle.com/code/bhavikbb/loan-prediction-dataset/output
+
 
