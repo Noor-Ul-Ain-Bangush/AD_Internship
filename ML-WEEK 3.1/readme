@@ -1,1 +1,6 @@
+This project involves applying K-means clustering to segment customer data from the Mall Customer Segmentation Data. 
+The dataset includes attributes such as customer ID, gender, age, annual income, and spending score. The analysis aims to discover distinct customer segments based on shopping behavior 
+and profile these segments for business insights.
 
+DATASET URL
+https://www.kaggle.com/vjchoudhary7/customer-segmentation tutorial-in-python
