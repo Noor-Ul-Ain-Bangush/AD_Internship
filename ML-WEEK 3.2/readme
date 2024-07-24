@@ -1,5 +1,4 @@
 In this project, we focus on feature engineering to improve machine learning model performance. 
-Using a synthetic dataset generated with sklearn's make_classification, we create polynomial features and select the most impactful ones 
-using techniques like SelectKBest and Recursive Feature Elimination (RFE). 
+Using a synthetic dataset generated with sklearn's make_classification, we create polynomial features and select the most impactful ones using techniques like SelectKBest and Recursive Feature Elimination (RFE). 
 The final step involves comparing the performance of classification models built with all features 
 and the selected features to evaluate the impact of feature engineering.
